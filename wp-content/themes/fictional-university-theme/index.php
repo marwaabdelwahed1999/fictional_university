@@ -20,6 +20,9 @@ while ($count < count($names)) {
 }
 
 
+// function greet() {
+
+// }
 
 
 
